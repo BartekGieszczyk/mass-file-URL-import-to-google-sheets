@@ -1,4 +1,4 @@
-var folderId = '10uSxKXDT-TSNp9Si8TFCVndZSQx51GRJ'; // The folder ID (everything after the 'folders/' portion of the URL).
+var folderId = '[folder ID]'; // The folder ID (everything after the 'folders/' portion of the URL).
 var searchDepthMax = 100; // Max depth for recursive search of files and folders
 var listFiles = true; // flag for listing files
 var cacheTimeout = 24 * 60 * 60 * 1000; // set cache time-out
